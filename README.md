@@ -1,1 +1,1 @@
-# digit_cassifier
+# digit_classifier
